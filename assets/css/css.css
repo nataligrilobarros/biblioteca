@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.teste{
+    background: #ff0000;
+    padding: 50px;
+    text-align: center;
+}
+
+.teste2{
+    background: #551fac;
+    width: 200px;
+    margin-top: 0px;
+    margin-left: 20px;
+     padding: 10px;
+}
